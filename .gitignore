@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Power Platform CLI (if you later add unpacked source)
+**/bin/
+**/obj/
+*.zip
+*.msapp
+
+# Secrets / local
+.env
+*.local
