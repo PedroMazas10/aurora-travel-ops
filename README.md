@@ -53,8 +53,7 @@ See [`docs/01-architecture.md`](docs/01-architecture.md) for the full picture an
 | [`docs/01-architecture.md`](docs/01-architecture.md) | Components, data flow, design decisions |
 | [`docs/02-data-model.md`](docs/02-data-model.md) | Dataverse tables, relationships, ERD (Mermaid) |
 | [`docs/03-screens.md`](docs/03-screens.md) | Canvas app screens & navigation |
-| [`docs/04-power-fx-highlights.md`](docs/04-power-fx-highlights.md) | Representative Power Fx patterns (sanitized) |
-| [`docs/05-power-automate.md`](docs/05-power-automate.md) | Flow specs (file → SharePoint, PDF generation) |
+| [`docs/05-power-automate.md`](docs/04-power-automate.md) | Flow specs (file → SharePoint, PDF generation) |
 | `assets/` | Screenshots (add your sanitized captures here) |
 
 ## Selected engineering highlights
@@ -64,7 +63,6 @@ See [`docs/01-architecture.md`](docs/01-architecture.md) for the full picture an
 - **Conditional typed forms** — hotel fields show/compute only for hotel activities; a two-option field driven by a styled toggle via its option-set member.
 - **Premium, consistent UI system** — fixed sidebar, terracotta/beige palette, Georgia + Open Sans, reused across every screen.
 
-A few representative formulas live in [`docs/04-power-fx-highlights.md`](docs/04-power-fx-highlights.md).
 
 ## Tech stack
 
