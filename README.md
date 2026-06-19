@@ -85,7 +85,3 @@ A few representative formulas live in [`docs/04-power-fx-highlights.md`](docs/04
 ## Author
 
 Built by **Pedro Mazas & Mateo Sartor** — Civil/Structural Engineer & BIM Specialist focused on workflow automation and business-application development.
-
-## License
-
-[MIT](LICENSE)
